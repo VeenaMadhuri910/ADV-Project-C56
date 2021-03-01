@@ -1,0 +1,27 @@
+
+
+
+	body {
+	  text-align: center;
+	  background-color: #8bf17d;
+	}
+
+	div {
+	  margin-top: 15px;
+	}
+
+	.image-section {
+	  display: flex;
+	  justify-content: center;
+	}
+
+	.section-style {
+	  margin-right: 25px;
+	  margin-left: 25px;
+	  background-color: rgb(28, 158, 16);
+	  color: beige;
+	}
+	img{
+		width: 600px;
+		height:250px;
+	}
